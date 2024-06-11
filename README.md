@@ -8,4 +8,4 @@ blendartrack imported to Roblox
 
 ### Step 2
 - Open blendartrack and record your motion.
-- ![image](https://github.com/ApparentlyJamesGH/robloxartrack/assets/140089219/b8ae2df2-92dd-4b31-8769-895ed330bc9f)
+- ![image](https://github.com/ApparentlyJamesGH/robloxartrack/assets/140089219/11bb8185-7232-4672-8b26-7f6ad2058af5)
