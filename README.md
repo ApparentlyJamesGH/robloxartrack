@@ -16,4 +16,7 @@ blendartrack imported to Roblox
 ### Step 3
 - In the extracted files, locate a JSON _cam file (should look simething like this: **2024-06-11_19-52-23_cam.json**)
 - Open up Roblox Studio and locate the plugin:
+
 ![image](https://github.com/ApparentlyJamesGH/robloxartrack/assets/140089219/4845f462-ed93-4525-a23e-ee49089aad2e)
+
+- Click on "Import" and find the JSON file.
